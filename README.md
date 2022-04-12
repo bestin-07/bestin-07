@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bestin-07
 - 👀 I’m interested in technology 
-- 🌱 I’m a electronics engineering graduate and trainee at ABB robotics
+- 🌱 I’m a electronics engineering graduate and ABB robotics employee
 - 💞️ I’m looking to collaborate on any ioT projects
 - 📫 How to reach me -> bestinantunps@gmail.com
 
