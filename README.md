@@ -3,10 +3,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<div class="container">
-    <img src="https://raw.githubusercontent.com/bestin-07/bestin-07/master/DALL·E 2023-10-05 14.29.48 - a robot smoking cigarette while coding, realistic, wide angle, digital art, themes.png" alt="Nature" class="responsive" width="800" height="350" class = "center"> </a>
 
-    <h1><div class="centered">Bestin Antu</div></h1>
+<div class="image-container">
+  <div class="text">BESTIN</div>
 </div>
 
 </br>
@@ -62,17 +61,29 @@ img {
   margin-right: auto;
 }
 
+body {font-family: Arial, Helvetica, sans-serif;}
 
-.centered {
-  position: absolute;
-  top: 70%;
-  left: 65%;
-  transform: translate(-50%, -50%);
-}
-
-.container {
+.image-container {
+  background-image: url("https://raw.githubusercontent.com/bestin-07/bestin-07/master/DALL·E 2023-10-05 14.29.48 - a robot smoking cigarette while coding, realistic, wide angle, digital art, themes.png");
+  background-size: cover;
   position: relative;
-  text-align: center;
-  color: white;
+  height: 600px;
 }
+
+.text {
+  background-color: white;
+  color: black;
+  font-size: 10vw; 
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 10px;
+  width: 50%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: screen;
+}
+
 </style>
