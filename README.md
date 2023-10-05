@@ -10,7 +10,7 @@
 </div>
 
 </br>
- <img align="left" height="320" width="320" alt="" src="/workspaces/bestin-07/Capture-removebg-preview.png" /></a>
+ <img align="left" height="320" width="320" alt="" src="https://raw.githubusercontent.com/bestin-07/bestin-07/master/Capture-removebg-preview.png" /></a>
 
 
  I am a software developer in B&R, A member of ABB. I focus on developing machine automation products using c++. Dealing with industrial robots is also a part of my job.
@@ -23,11 +23,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <a href="https://www.linkedin.com/in/bestin-antu/" class="fa fa-linkedin"></a>
 <a href="#" class="fa fa-google"></a>
-
-<!---
-bestin-07/bestin-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 <style>
