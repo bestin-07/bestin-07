@@ -1,15 +1,8 @@
 
 
+![A dalle generated picture with my name](https://raw.githubusercontent.com/bestin-07/bestin-07/master/Bestin_Dalle.PNG)
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
-
-<div class="image-container">
-  <div class="text">BESTIN</div>
-</div>
-
-</br>
- <img align="left" height="320" width="320" alt="" src="https://raw.githubusercontent.com/bestin-07/bestin-07/master/Capture-removebg-preview.png" /></a>
 
 
  I am a software developer in B&R, A member of ABB. I focus on developing machine automation products using c++. Dealing with industrial robots is also a part of my job.
