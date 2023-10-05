@@ -4,9 +4,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <div class="container">
-    <img src="/workspaces/bestin-07/DALL·E 2023-10-05 14.29.48 - a robot smoking cigarette while coding, realistic, wide angle, digital art, themes.png" alt="Nature" class="responsive" width="800" height="350" class = "center"> </a>
+    <img src="https://raw.githubusercontent.com/bestin-07/bestin-07/master/DALL·E 2023-10-05 14.29.48 - a robot smoking cigarette while coding, realistic, wide angle, digital art, themes.png" alt="Nature" class="responsive" width="800" height="350" class = "center"> </a>
 
-    <div class="centered"><h1>Bestin Antu</h1></div>
+    <h1><div class="centered">Bestin Antu</div></h1>
 </div>
 
 </br>
