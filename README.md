@@ -22,8 +22,6 @@
 
 ![GitHub Contributions](https://ghchart.rshah.org/bestin-07)
 
-## Contributions Details
-
 - Developed machine automation products using C++.
 - Contributed to various robotics and IoT projects.
 - Active member of software development community and open-source projects.
