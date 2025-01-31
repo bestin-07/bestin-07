@@ -16,12 +16,35 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/bestin-antu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <br><br><br><br>
 </div>
 
-## Contributions
 
+## About Me
+I am a software developer in B&R, member of ABB Group. I focus on developing machine automation products using C++. Sometimes I tend to interact too much with machines rather than humans.
+
+## Interests
+- 👀 I’m interested in technology 
+- 🌱 I’m an electronics engineering graduate.
+- 💞️ I’m looking to collaborate on any robotics or IoT projects
+
+## Collaborations
+I’m looking to collaborate on any robotics or IoT projects. Feel free to reach out if you have any exciting projects in mind.
+
+## Contributions
 ![GitHub Contributions](https://ghchart.rshah.org/bestin-07)
 
 - Developed machine automation products using C++.
 - Contributed to various robotics and IoT projects.
 - Active member of software development community and open-source projects.
+
+## Skills
+- C++
+- Python
+- Machine Automation
+- Robotics
+- IoT
+
+## Contact
+You can reach me through [LinkedIn](https://www.linkedin.com/in/bestin-antu/).
